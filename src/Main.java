@@ -11,5 +11,13 @@ public class Main {
         ReverseWordString reverseWordString = new ReverseWordString();
         String reverseWordStringResult = reverseWordString.reverseWords("Hai Hellow Good Moring"); 
         System.out.println("2. reverseWordStringResult - " + reverseWordStringResult); //output - Moring Good Hellow Hai
+
+        //triple nummber comming like sorting order thate's called triplet
+        Triplet triplet = new Triplet();
+        int arr[] = {6, 7, 0, 1, 2, 3};
+        boolean tripleResult = triplet.increasingTriplet(arr);
+        System.out.println("3. tripleResult - " + tripleResult); //output - true
+
+
     }
 }
