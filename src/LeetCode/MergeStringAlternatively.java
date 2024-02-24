@@ -1,5 +1,6 @@
 class MergeStringAlternatively {
 
+    public static String s = "";
 
     public String MergreTwoString(String one, String two){
         int i = 0;
