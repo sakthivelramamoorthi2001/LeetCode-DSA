@@ -1,4 +1,4 @@
-package DSA.bin.Searching;
+package Searching;
 
 public class LinearSearch<T> {
 

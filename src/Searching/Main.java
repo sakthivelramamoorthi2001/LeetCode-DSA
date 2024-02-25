@@ -1,4 +1,4 @@
-package DSA.bin.Searching;
+package Searching;
 
 import java.util.Arrays;
 
